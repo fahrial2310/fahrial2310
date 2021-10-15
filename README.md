@@ -22,25 +22,14 @@
 <a href="mailto:mfahrial2310@gmail.com" alt="Gmail"><img height="33" src="https://raw.githubusercontent.com/fahrial2310/fahrial2310/master/img/gmail.ico"></a>
 </p>
 </p>
-  
-
-## analisct
-<details>	
-  <summary><b>☠️ Status</b></summary>
-
+ 
+ ## Analisct
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fahrial2310&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahrial2310&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-<details>	
-  <summary><b>☠️ Streaks</b></summary>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fahrial2310&hide_border=true" />
 <a href="https://github.com/fahrial2310"><img alt="Alvin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=fahrial2310&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-</details>
-
-
+ 
 <hr>
 <p align="center">
 <!--
@@ -50,6 +39,12 @@
 <a href="https://bismillahfahriganteng.me"><img src="https://github-stats-alpha.vercel.app/api/?username=bismillahfahriganteng&cc=fff&tc=000&ic=000" alt="bismillahfahriganteng"></a>
 <!--
 [![fahri Streak](https://github-readme-streak-stats.herokuapp.com/?user=bismillahfahriganteng&currStreakNum=ff0000&fire=red&sideLabels=00000)](https://github.com/bismillahfahriganteng)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bismillahfahriganteng&show_icons=true&hide_border=true&layout=compact&langs_count=8)](https://github.com/fahrial2310)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bismillahfahriganteng&show_icons=true&hide_border=true&layout=compact&langs_count=8)](https://github.com/bismillahfahriganteng)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bismillahfahriganteng)](https://github.com/bismillahfahriganteng)
+
+<a href="https://downgoo082.me"><img src="https://github-stats-alpha.vercel.app/api/?username=downgoo082&cc=fff&tc=000&ic=000" alt="downgoo082"></a>
+<!--
+[![fahri Streak](https://github-readme-streak-stats.herokuapp.com/?user=downgoo082&currStreakNum=ff0000&fire=red&sideLabels=00000)](https://github.com/downgoo082)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=downgoo082&show_icons=true&hide_border=true&layout=compact&langs_count=8)](https://github.com/downgoo082)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=downgoo082)](https://github.com/downgoo082)
 
