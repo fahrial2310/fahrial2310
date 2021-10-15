@@ -1,7 +1,6 @@
 ### Hi there 👋
-
 ### i'm alvin junior,you can call me fahri or alvin
-### i here wanna program my file to the repository in github and i have 4 repository if you wanna see that you can click my repository below 
+### i here wanna program my file to the repository in github and i have 5 repository if you wanna see that you can click my repository below 
 
 ## find me on telegram as [@alvin_junior](https://t.me/alvin_junior)
 <p align="center">
@@ -10,12 +9,10 @@
 
 ## find my group on telegram
 <a href="https://t.me/Alvin_image_editor_group"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
-
 <a href="https://t.me/alvin_image_editor"><img src="https://img.shields.io/badge/Channel%20updates%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
-
 <a href="https://t.me/alvin_userbot_group"><img src="https://img.shields.io/badge/Group%20UserBot%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
 
-<h3 align="center">click here to find me on social media</h3>
+<h3 align="center">Click here to find me on social media</h3>
 <p align="center">
 <a href="https://bit.ly/Alvin_JuniorIG" alt="Instagram"><img height="33" src="https://raw.githubusercontent.com/fahrial2310/fahrial2310/master/img/instagram.ico"></a>
 <a href="https://bit.ly/Alvin_JuniorTme" alt="Telegram"><img height="33" src="https://raw.githubusercontent.com/fahrial2310/fahrial2310/master/img/telegram.ico"></a>
